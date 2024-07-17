@@ -1,7 +1,9 @@
 # error_msd
-Error simulation of magic state distillation.
+Error simulation of magic state distillation (MSD).
 
-# Figure of T-distillation simulation
+# Analysis of influence of two-qubit gate errors on MSD
+
+The relation between the scripts and data is demonstrated below. The output file `Tfinal.pdf` is Fig. 2 in the paper.
 
 ```mermaid
 flowchart LR;
